@@ -1,0 +1,23 @@
+{
+    "name": "EcoTravel",
+    "short_name": "EcoTravel",
+    "description": "Aplicacion sobre viajes ecologicos",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00A859",
+    "theme_color": "#00A859",
+    "lang": "es",
+    "icons": [
+      {
+        "src": "src/icons/ecologia.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "src/icons/el-planeta-tierra.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
